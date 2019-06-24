@@ -1,2 +1,7 @@
 # Liri-Bot
-Liri-Bot Homework using Node
+
+##Liri-Bot Homework using Node
+
+How I Started:
+
+
