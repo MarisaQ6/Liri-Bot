@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "homeworkRequirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarisaQ6/Liri-Bot.git"
+  },
+  "keywords": [
+    "Liri-Bot"
+  ],
+  "author": "Marisa Quijano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarisaQ6/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/MarisaQ6/Liri-Bot#readme"
+}
