@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MarisaQ6/Liri-Bot/issues"
   },
-  "homepage": "https://github.com/MarisaQ6/Liri-Bot#readme"
+  "homepage": "https://github.com/MarisaQ6/Liri-Bot#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
 }
